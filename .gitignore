@@ -1,2 +1,2 @@
 log.txt
-/dr2
+/dr2 <-- This makes git not add the file to the repository -->
